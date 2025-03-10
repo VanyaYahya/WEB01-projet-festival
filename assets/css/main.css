@@ -33,6 +33,16 @@ body {
 	line-height: 1;
 }
 
+.text {
+	margin-bottom: 3px;
+}
+
+iframe {
+	border: 0;
+	margin-bottom: 25px;
+}
+
+
 ol, ul {
 	list-style: none;
 }
@@ -157,7 +167,7 @@ input, select, textarea {
 		color: inherit;
 		text-decoration: none;
 	}
-
+/* elephant */
 		a:hover {
 			border-bottom-color: transparent;
 			color: #9bf1ff !important;
@@ -2054,6 +2064,7 @@ input, select, textarea {
 	input[type="radio"] + label:before {
 		border-radius: 100%;
 	}
+	/*elephant*/
 
 	::-webkit-input-placeholder {
 		color: rgba(244, 244, 255, 0.2) !important;
@@ -2826,6 +2837,8 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+			/*elephant*/
+
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 60%;
 			}
@@ -3257,6 +3270,8 @@ input, select, textarea {
 			box-shadow: none;
 			position: absolute;
 		}
+
+		/*elephant*/
 
 			#header.alt.style1 .logo strong {
 				color: #6fc3df;
