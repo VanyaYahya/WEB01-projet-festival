@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Midsommar</title>
+		<title>L'Homme qui répare les femmes : La colère d'Hippocrate</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../../assets/css/main.css" />
@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 				<header id="header" class="alt">
-					<a href="../../homepage.html" class="logo"><strong>Festival name</strong> <span>2025 Edition</span></a>
+					<a href="../../homepage.html" class="logo"><strong>Festyjuste</strong> <span>Edition été 2025</span></a>
 					<nav>
 						<a href="#menu">Menu</a>
 					</nav>
@@ -28,14 +28,14 @@
 			<!-- Menu -->
 				<nav id="menu">
 					<ul class="links">
-						<li><a href="../../homepage.html">Home</a></li>
-						<li><a href="#">Practical</a></li>
-						<li><a href="#">About Us</a></li>
-						<li><a href="#">Contacts</a></li>
+						<li><a href="../../homepage.html">Accueil</a></li>
+						<li><a href="#">Aspects pratiques</a></li>
+						<li><a href="#">A propos de nous</a></li>
+						<li><a href="#">Contact</a></li>
 					</ul>
 					<ul class="actions stacked">
 						<li><a href="#" class="button primary fit">Programme</a></li>
-						<li><a href="#" class="button fit">Buy Tickets</a></li>
+						<li><a href="#" class="button fit">Acheter des tickets</a></li>
 					</ul>
 				</nav>
 
@@ -46,12 +46,18 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h1>Midsommar</h1>
+										<h1>L'Homme qui répare les femmes : La colère d'Hippocrate</h1>
 									</header>
-									<span class="image main"><img src="../../images/midsommar.jpg" alt="" /></span>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<span class="image main"><img src="../../images/L_homme_qui_répare_les_femmes.jpg" alt="" /></span>
+									<p>Prix Sakharov 2014 et Prix Nobel de la paix en 2018, le docteur Mukwege est internationalement connu comme 
+										l’homme qui répare ces milliers de femmes, violées durant 20 ans de conflits à l’Est de la République 
+										Démocratique du Congo, un pays parmi les plus pauvres de la planète, mais au sous-sol extrêmement riche. 
+										Sa lutte incessante, pour mettre fin à ces atrocités et dénoncer l’impunité dont jouissent les coupables, 
+										dérange. Il est l’objet d’une nouvelle tentative d’assassinat, auquel il échappe miraculeusement. 
+										Menacé de mort, ce médecin au destin exceptionnel vit dorénavant cloîtré dans son hôpital de Bukavu, 
+										sous la protection des Casques bleus. Mais il n’est plus seul à lutter. À ses côtés, ces femmes auxquelles 
+										il a rendu leur intégrité physique et leur dignité, devenues grâce à lui de véritables activistes de la paix, 
+										assoiffées de justice.</p>
 								</div>
 							</section>
 
