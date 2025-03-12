@@ -2111,6 +2111,18 @@ input, select, textarea {
 			padding: 0;
 		}
 
+	.box p{
+		
+		font-weight: bold;
+	}
+
+	.box p span{
+		justify-content: end;
+		justify-self: end;
+	}
+
+
+
 /* Icon */
 
 	.icon {
