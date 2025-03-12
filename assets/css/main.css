@@ -129,7 +129,11 @@ body {
 	margin-bottom: 25px;
   } 
   
-
+.map iframe {
+  width :600px;
+  height: 500px;
+  padding: 10px; 
+}
 ol, ul {
 	list-style: none;
 
