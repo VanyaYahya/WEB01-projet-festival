@@ -114,6 +114,7 @@ body {
   line-height: 1;
 }
 
+
 .text {
 	margin-bottom: 3px;
   }
@@ -4049,21 +4050,9 @@ body.is-menu-visible #menu .inner {
   visibility: visible;
 }
 
+
 /* Movies Pages */
 
-.text {
-  margin-bottom: 3px;
-}
-
-.text span {
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-iframe {
-  border: 0;
-  margin-bottom: 25px;
-}
 
 .info-film-blackswan {
   margin-top: 10em;
@@ -4096,21 +4085,9 @@ iframe {
 	margin-top: 150px;
 	margin-bottom: 30px;
 }
+
 /* Movies Pages */
 
-.text {
-	margin-bottom: 3px;
-  }
-  
-  .text span {
-	font-weight: bold;
-	text-decoration: underline;
-  }
-  
-  iframe {
-	border: 0;
-	margin-bottom: 25px;
-  } 
 
 .info-film-requiem {
   margin-top: 5em;
