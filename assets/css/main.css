@@ -4043,3 +4043,7 @@ iframe {
   margin-top: 7em;
   margin-bottom: 20px;
 }
+
+blockquote span {
+  font-weight: bold;
+}
