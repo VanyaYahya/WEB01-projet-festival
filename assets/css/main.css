@@ -127,6 +127,8 @@ body {
   iframe {
 	border: 0;
 	margin-bottom: 25px;
+  height: 550px;
+  width: 100%;
   } 
   
 
