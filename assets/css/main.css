@@ -114,6 +114,15 @@ body {
   line-height: 1;
 }
 
+p.ticket {
+  font-size: 18pt;
+}
+
+div.ticketing {
+  display: flex;
+  justify-content: space-between;
+
+}
 
 .text {
 	margin-bottom: 3px;
