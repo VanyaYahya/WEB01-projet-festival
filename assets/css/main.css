@@ -114,9 +114,10 @@ body {
   line-height: 1;
 }
 
-p.ticket {
-  font-size: 18pt;
+.ticketing p{
+  margin-bottom: 0%;
 }
+
 
 div.ticketing {
   display: flex;
