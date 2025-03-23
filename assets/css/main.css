@@ -114,6 +114,11 @@ body {
   line-height: 1;
 }
 
+.mentionsLegales {
+  font-style: italic;
+  display: block;
+  margin-bottom: 20px;
+}
 
 .text {
 	margin-bottom: 3px;
@@ -148,6 +153,11 @@ q:before,
 q:after {
   content: '';
   content: none;
+}
+
+.println{
+  
+
 }
 
 table {
