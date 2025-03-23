@@ -134,6 +134,8 @@ body {
 	margin-bottom: 25px;
   height: 550px;
   width: 100%;
+    height: 550px;
+    width: 100%;
   } 
   
 
@@ -4109,4 +4111,8 @@ body.is-menu-visible #menu .inner {
 .info-film-american {
   margin-top: 7em;
   margin-bottom: 20px;
+}
+
+blockquote span {
+  font-weight: bold;
 }
