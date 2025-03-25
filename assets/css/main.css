@@ -129,6 +129,9 @@ body {
   height: 100%;
 }
 
+.margin-bottom p{
+  margin-bottom: 5px;
+}
 
 .commentaires {
   font-style: italic;
