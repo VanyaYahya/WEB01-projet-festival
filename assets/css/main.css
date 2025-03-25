@@ -147,6 +147,14 @@ iframe {
 
 }
 
+.acces p{
+margin-bottom: 6px;
+}
+
+.acces p span{
+  font-weight: bold;
+}
+
 .apropos iframe {
   width: 450px;
   height: 450px;
@@ -3056,6 +3064,10 @@ button:disabled,
     height: 20em;
     width: 100% !important;
   }
+}
+
+.links li img{
+  width: 100px;
 }
 
 /* Contact Method */
