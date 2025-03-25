@@ -124,7 +124,6 @@ body {
   margin-bottom: 0%;
 }
 
-
 div.ticketing {
   display: flex;
   justify-content: space-between;
@@ -146,6 +145,13 @@ iframe {
   height: 550px;
   width: 100%;
 
+}
+
+.apropos iframe{
+  width :450px;
+  height :450px;
+  border:0;
+  padding: 35px;
 }
 
 .map iframe {
@@ -173,7 +179,7 @@ q:after {
   content: none;
 }
 
-.println {}
+
 
 table {
   border-collapse: collapse;
@@ -4088,44 +4094,6 @@ body.is-menu-visible #menu .inner {
 /* Movies Pages */
 
 
-.info-film-blackswan {
-  margin-top: 10em;
-  margin-bottom: 20px;
-}
-
-
-body.is-menu-visible #menu .inner {
-  -moz-transform: none;
-  -webkit-transform: none;
-  -ms-transform: none;
-  transform: none;
-  opacity: 1;
-  visibility: visible;
-}
-
-/* Science fiction */
-
-.image-cover {
-  width: 100%;
-  height: 380px;
-  object-fit: cover;
-  border-radius: 20px;
-  object-position: 50% 30%;
-}
-
-.info-film {
-  margin-top: 120px;
-  margin-bottom: 30px;
-}
-
-.info-film-inception {
-  margin-top: 150px;
-  margin-bottom: 30px;
-}
-
-/* Movies Pages */
-
-
 .info-film-requiem {
   margin-top: 5em;
   margin-bottom: 20px;
@@ -4133,6 +4101,12 @@ body.is-menu-visible #menu .inner {
 
 .info-film-american {
   margin-top: 7em;
+  margin-bottom: 20px;
+}
+
+
+.info-film-blackswan{
+  margin-top: 5em;
   margin-bottom: 20px;
 }
 
