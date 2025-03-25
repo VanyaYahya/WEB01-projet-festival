@@ -124,6 +124,12 @@ body {
   z-index: 2;
 }
 
+#header a img {
+  width: 100%;
+  height: 100%;
+}
+
+
 .mentionsLegales {
   font-style: italic;
   display: block;
@@ -2266,6 +2272,10 @@ input[type="radio"]+label:before {
 .box p {
 
   font-weight: bold;
+}
+
+.alt img {
+ margin-left: 15px;
 }
 
 .box p span {
