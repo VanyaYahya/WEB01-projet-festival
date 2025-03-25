@@ -147,10 +147,10 @@ iframe {
 
 }
 
-.apropos iframe{
-  width :450px;
-  height :450px;
-  border:0;
+.apropos iframe {
+  width: 450px;
+  height: 450px;
+  border: 0;
   padding: 35px;
 }
 
@@ -4105,11 +4105,34 @@ body.is-menu-visible #menu .inner {
 }
 
 
-.info-film-blackswan{
+.info-film-blackswan {
   margin-top: 5em;
   margin-bottom: 20px;
 }
 
 blockquote span {
   font-weight: bold;
+}
+
+/** breadcrumbs pcq on est des pigeons **/
+#breadcrumbs {
+  margin: 10px 0;
+  font-size: 1em;
+  text-align: center;
+}
+
+#breadcrumbs ul li {
+  display: inline;
+}
+
+#breadcrumbs ul li::after {
+  content: " >";
+}
+
+#breadcrumbs ul li:last-child {
+  font-weight: bold;
+}
+
+#breadcrumbs ul li:last-child::after {
+  content: "";
 }
