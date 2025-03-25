@@ -124,6 +124,10 @@ body {
   z-index: 2;
 }
 
+.commentaires {
+  font-style: italic;
+  }
+
 .mentionsLegales {
   font-style: italic;
   display: block;
