@@ -15,10 +15,10 @@ Il s'agit d'un festival de films présentant plusieurs genres cinématographique
 ## 🏗️ Répartition des tâches
 | Genre | Responsable |
 |-------|------------|
-| 🎭 Drame | H. Ali |
-| 🚀 Science-fiction | K. Krystian |
-| 🎥 Documentaire | D. Charline |
-| 👻 Horreur | Vanya C.Y |
+| Drame | H. Ali |
+| Science-fiction | K. Krystian |
+| Documentaire | D. Charline |
+| Horreur | Vanya C.Y |
 
 ## 🚀 Installation et utilisation
 1. **Clone le dépôt** :
@@ -32,4 +32,4 @@ Il s'agit d'un festival de films présentant plusieurs genres cinématographique
 3. **Ouvre `homepage.html` dans un navigateur**
 
 ---
-🚀 *Un projet réalisé avec passion dans le cadre du cours Web.*
+*Un projet réalisé avec passion dans le cadre du cours Web.*
