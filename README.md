@@ -1,7 +1,7 @@
 # 🎬 FestyJust - Projet Festival Web
 
 ## 📌 Description du projet
-FestyJust est un site web conçu dans le cadre du projet Web : Principes de base.
+FestyJust est un site web conçu dans le cadre du projet Web : Principes de base.  
 Il s'agit d'un festival de films présentant plusieurs genres cinématographiques.
 
 🔗 **Template utilisé :** [Forty - HTML5 UP](https://html5up.net/forty)
@@ -10,7 +10,7 @@ Il s'agit d'un festival de films présentant plusieurs genres cinématographique
 - **K. Krystian**  
 - **D. Charline**  
 - **H. Ali**  
-- **Vanya C.Y**  
+- **C.Y Vanya**  
 
 ## 🏗️ Répartition des tâches
 | Genre | Responsable |
@@ -18,7 +18,7 @@ Il s'agit d'un festival de films présentant plusieurs genres cinématographique
 | Drame | H. Ali |
 | Science-fiction | K. Krystian |
 | Documentaire | D. Charline |
-| Horreur | Vanya C.Y |
+| Horreur | C.Y Vanya |
 
 ## 🚀 Installation et utilisation
 1. **Clone le dépôt** :
