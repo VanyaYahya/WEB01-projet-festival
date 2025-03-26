@@ -4152,19 +4152,33 @@ blockquote span {
   font-weight: bold;
 }
 
-/** breadcrumbs pcq on est des pigeons **/
+/* fil d'Ariane */
 #breadcrumbs {
   margin: 10px 0;
   font-size: 1em;
   text-align: center;
 }
 
+#breadcrumbs nav ul {
+  padding-left: 0;
+}
+
+#breadcrumbs ul {
+  display: flex;
+}
+
 #breadcrumbs ul li {
+  display: inline;
+  padding: 0;
+}
+
+#breadcrumbs ul li a {
   display: inline;
 }
 
-#breadcrumbs ul li::after {
-  content: " >";
+#breadcrumbs ul li+li:before {
+  padding: 8px;
+  content: ">\00a0";
 }
 
 #breadcrumbs ul li:last-child {
@@ -4173,4 +4187,8 @@ blockquote span {
 
 #breadcrumbs ul li:last-child::after {
   content: "";
+}
+
+header a {
+  border: none;
 }
